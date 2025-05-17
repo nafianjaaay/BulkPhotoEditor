@@ -1,7 +1,3 @@
-Sure — here’s a clean, professional, and detailed `README.md` you can copy-paste directly into your GitHub repo:
-
----
-
 # 📸 Multi Tool Image Processor by @snap.snap.id
 
 A multi-functional desktop image processing application built with Python and Tkinter. This tool offers a convenient graphical interface for applying RGB/HSV adjustments, LUT filters, overlay effects, and converting images to PDF. Designed for photographers, creative businesses, and photo booth services.
@@ -124,7 +120,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 For collaborations or custom modifications:
 
 * Instagram: [@snap.snap.id](https://instagram.com/snap.snap.id)
-
----
-
-Would you like me to make a localized **Bahasa Indonesia** version too for your repo? 🚀
