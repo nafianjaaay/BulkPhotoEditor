@@ -1,4 +1,4 @@
-# 📸 Multi Tool Image Processor by @snap.snap.id
+# 📸 Bulk Photo Editor by @snap.snap.id
 
 A multi-functional desktop image processing application built with Python and Tkinter. This tool offers a convenient graphical interface for applying RGB/HSV adjustments, LUT filters, overlay effects, and converting images to PDF. Designed for photographers, creative businesses, and photo booth services.
 
